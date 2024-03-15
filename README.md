@@ -1,4 +1,4 @@
 # lokeshpathak-demo
 This is my first Git Repository.
 <br>
-Author - Lokesh Pathak
+Author - Lokesh(Student)
